@@ -1,0 +1,27 @@
+_repo: La-premiere-fletrissure_74487
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Agrippa, J.
+    gutenberg_agent_id: '57523'
+    url: http://www.gutenberg.org/2009/agents/57523
+description: ''
+gutenberg_issued: '2024-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74487'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k204438s
+pgterms:marc905: 20240201214041agrippa
+pgterms:marc906: '1873'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bHurtau, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La première flétrissure
+url: http://www.gutenberg.org/ebooks/74487
