@@ -1,11 +1,16 @@
 _repo: La-premiere-fletrissure_74487
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74487-h/images/cover.jpg
 creator:
   author:
     agent_name: Agrippa, J.
     gutenberg_agent_id: '57523'
     url: http://www.gutenberg.org/2009/agents/57523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74487#La-premiere-fletrissure
 gutenberg_issued: '2024-09-27'
 gutenberg_type: Text
 identifiers:
